@@ -13,5 +13,4 @@ const biblioteca ={
             this.livros.push(produtos);
             console.log("//livros adicionado//)livros.nome")
             },//funcao};livros//biblioteca
-            
     }
